@@ -8,7 +8,6 @@
 
 [![Documentation](https://img.shields.io/badge/Docs-docs.reineira.xyz-6E56CF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.reineira.xyz)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20the%20builders-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReineiraOS)
-[![X](https://img.shields.io/badge/Follow-%40ReineiraOS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ReineiraOS)
 [![npm](https://img.shields.io/npm/v/@reineira-os/sdk?style=for-the-badge&logo=npm&logoColor=white&label=SDK)](https://www.npmjs.com/package/@reineira-os/sdk)
 
 </div>
@@ -52,4 +51,3 @@
 ## Stay Connected
 
 - [**Telegram**](https://t.me/ReineiraOS) — join our community of builders.
-- [**X**](https://x.com/ReineiraOS) — follow for the latest announcements and updates.
